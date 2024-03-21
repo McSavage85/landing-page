@@ -11,3 +11,12 @@ body > * a {
     background-color: #1f2937;
     height: 50px;
 }
+
+.header{
+    display: flex;
+    height: 50px;
+    max-width: 1000px;
+    min-width: 500px;
+    justify-content: space-between;
+    margin: auto;
+}
