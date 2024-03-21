@@ -32,3 +32,9 @@ body > * a {
     color: #f9faf8;
     font-weight: bold;
 }
+
+.header_right > * a {
+    font-size: 18px;
+    color: #E5E7EB;
+    font-weight: lighter;
+}
