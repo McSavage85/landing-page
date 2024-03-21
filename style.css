@@ -6,3 +6,8 @@ body {
 body > * a {
     text-decoration: none;
 }
+
+.header_container{
+    background-color: #1f2937;
+    height: 50px;
+}
