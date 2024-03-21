@@ -20,3 +20,9 @@ body > * a {
     justify-content: space-between;
     margin: auto;
 }
+
+.header_left, .header_right {
+    display: flex;
+    align-items: center;
+    gap: 10px;   
+}
