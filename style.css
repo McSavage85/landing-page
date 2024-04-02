@@ -44,3 +44,12 @@ body > * a {
     height: 250px;
     padding: 75px 0px;
 }
+
+.hero{
+    display: flex;
+    height: 250px;
+    max-width: 1000px;
+    min-width: 600px;
+    margin: auto;
+    align-items: center;
+}
