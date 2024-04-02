@@ -83,3 +83,12 @@ body > * a {
     padding: 7.5px 15px;
     border-radius: 5px;
 }
+
+.hero_right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 218px;
+    background-color: #a8a9ac;
+    color: #f9faf8;
+}
