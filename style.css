@@ -53,3 +53,7 @@ body > * a {
     margin: auto;
     align-items: center;
 }
+
+.hero_left, .hero_right {
+    flex-basis: 50%;
+}
