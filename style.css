@@ -92,3 +92,7 @@ body > * a {
     background-color: #a8a9ac;
     color: #f9faf8;
 }
+
+.main_container{
+    height: 450px;
+}
