@@ -75,3 +75,11 @@ body > * a {
     font-weight: lighter;
     padding-bottom: 10px;
 }
+
+.hero_left3 {
+    background-color: #3882f6;
+    width: 100px;
+    text-align: center;
+    padding: 7.5px 15px;
+    border-radius: 5px;
+}
