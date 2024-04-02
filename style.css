@@ -38,3 +38,9 @@ body > * a {
     color: #E5E7EB;
     font-weight: lighter;
 }
+
+.hero_container{
+    background-color: #1f2937;
+    height: 250px;
+    padding: 75px 0px;
+}
