@@ -57,3 +57,8 @@ body > * a {
 .hero_left, .hero_right {
     flex-basis: 50%;
 }
+
+.hero_left > * a {
+    color: #f9faf8;
+    font-size: 18px;
+}
