@@ -112,3 +112,7 @@ body > * a {
     justify-content: space-between;
     max-width: 850px;
 }
+
+.main_item{
+    width: 175px;
+}
