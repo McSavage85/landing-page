@@ -151,3 +151,8 @@ body > * a {
     max-width: 850px;
     min-width: 500px;
 }
+
+.quote_bottomtext{
+    width: 850px;
+    text-align: end;
+}
