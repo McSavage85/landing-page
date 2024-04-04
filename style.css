@@ -116,3 +116,12 @@ body > * a {
 .main_item{
     width: 175px;
 }
+
+.main_box{
+    box-sizing: border-box;
+    border: 5px solid #3882f6;
+    height: 175px;
+    width: 175px;
+    border-radius: 10px;
+    margin: auto;
+}
