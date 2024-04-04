@@ -141,3 +141,13 @@ body > * a {
     height: 450px;
     margin: auto;
 }
+
+.quote_text{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+    text-align: justify;
+    max-width: 850px;
+    min-width: 500px;
+}
