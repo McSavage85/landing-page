@@ -105,3 +105,10 @@ body > * a {
     text-align: center;
     padding: 40px 0px;
 }
+
+.main_bottom {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    max-width: 850px;
+}
