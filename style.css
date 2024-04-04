@@ -96,3 +96,12 @@ body > * a {
 .main_container{
     height: 450px;
 }
+
+.main {
+    font-size: 36px;
+    min-width: 250px;
+    font-weight:bolder;
+    color: #1f2937;
+    text-align: center;
+    padding: 40px 0px;
+}
