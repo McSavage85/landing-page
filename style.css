@@ -204,3 +204,7 @@ body > * a {
     justify-content: center;
     align-items: center;
 }
+
+.footer_text{
+    color: #f9faf8;
+}
