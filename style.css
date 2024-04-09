@@ -172,3 +172,10 @@ body > * a {
 .sign_up_box_left {
     margin-left: 75px;
 }
+
+.sign_up_box_right {
+    margin-right: 75px;
+    border: 2px solid #f9faf8;
+    border-radius: 10px;
+    padding: 5px 35px;
+}
