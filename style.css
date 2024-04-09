@@ -196,3 +196,11 @@ body > * a {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.footer_container{
+    background-color: #1f2937;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
