@@ -191,3 +191,8 @@ body > * a {
     color: #f9faf8;
     font-weight: bold;
 }
+
+.sign_up_box_text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
