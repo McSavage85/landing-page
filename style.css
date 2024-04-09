@@ -179,3 +179,9 @@ body > * a {
     border-radius: 10px;
     padding: 5px 35px;
 }
+
+.sign_up_box_right > a {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
+}
