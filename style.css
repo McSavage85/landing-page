@@ -156,3 +156,15 @@ body > * a {
     width: 850px;
     text-align: end;
 }
+
+.sign_up_box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1000px;
+    min-width: 800px;
+    height: 175px;
+    margin: 100px auto;
+    background-color: #3882f6;
+    border-radius: 10px;
+}
